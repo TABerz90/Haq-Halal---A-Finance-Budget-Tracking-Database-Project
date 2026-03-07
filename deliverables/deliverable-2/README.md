@@ -368,17 +368,17 @@ npm install
 
 ## 👥 Team Contributions
 
-### Talha Ahmad (24L-0620)
+### Talha Ahmad
 - Schema design and enhancement
 - Database trigger implementation
 - API endpoint development
 
-### Muhammad Ibrahim (24L-0630)
+### Muhammad Ibrahim
 - View optimization and complex queries
 - Performance testing and benchmarking
 - Documentation and report writing
 
-### Muhammad Aariz (24L-0631)
+### Muhammad Aariz
 - Node.js backend architecture
 - Error handling and validation
 - API testing and debugging
