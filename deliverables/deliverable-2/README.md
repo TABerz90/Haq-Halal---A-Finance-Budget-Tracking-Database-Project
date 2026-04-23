@@ -140,7 +140,7 @@ curl http://localhost:5000/api/dashboard/1
 ```env
 # Database Configuration
 DB_SERVER=localhost
-DB_PORT=64513
+DB_PORT=1433
 DB_DATABASE=haqhalal
 DB_USER=your_username
 DB_PASSWORD=your_password
@@ -150,7 +150,6 @@ PORT=5000
 ```
 
 **Security Note:** Never commit the `.env` file to version control!
-
 ## 📡 API Endpoints
 
 ### Complete Endpoint List
